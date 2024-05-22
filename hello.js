@@ -4,8 +4,12 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('Hello, Earth!');
 
+console.log(2);
+console.log(2+2);
+console.log('one message in single quotes,', "and one in double quotes")
+console.log('Quoth the Raven "Nevermore"');
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
